@@ -1,0 +1,4 @@
+interface IHuman
+{
+    getGender() : string;
+}
